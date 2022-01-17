@@ -26,14 +26,14 @@
 
 .u-section-2 .u-text-1 {
   font-weight: 700;
-  width: 772px;
   text-transform: uppercase;
-  margin: 35px auto 0;
+  width: 772px;
+  margin: 29px auto 0;
 }
 
 .u-section-2 .u-list-1 {
   width: 631px;
-  margin: 55px -3px 0 auto;
+  margin: 61px -3px 0 auto;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -42,7 +42,7 @@
 
 .u-section-2 .u-text-2 {
   text-align: left;
-  margin: -20px 85px 10px;
+  margin: -32px 85px 22px;
 }
 
 @media (max-width: 1199px) {
@@ -93,7 +93,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 1049px;
+  min-height: 995px;
 }
 
 .u-section-3 .u-text-1 {
@@ -101,12 +101,12 @@
   font-weight: 700;
   text-transform: uppercase;
   width: 772px;
-  margin: 34px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-3 .u-list-1 {
   width: 631px;
-  margin: 33px -3px 0 auto;
+  margin: 67px -3px 0 auto;
 }
 
 .u-section-3 .u-repeater-1 {
@@ -115,31 +115,35 @@
 
 .u-section-3 .u-text-2 {
   text-align: left;
-  margin: -14px 0 0 430px;
+  margin: -37px 0 0 430px;
 }
 
 .u-section-3 .u-image-1 {
   width: 356px;
   height: 269px;
   object-position: 0% 100%;
-  margin: -292px auto 0 33px;
+  margin: -311px auto 0 33px;
 }
 
 .u-section-3 .u-text-3 {
   text-align: left;
-  margin: 57px 0 0 430px;
+  margin: 53px 0 0 430px;
 }
 
 .u-section-3 .u-image-2 {
   width: 356px;
   height: 446px;
   object-position: 0% 50%;
-  margin: -469px auto 60px 33px;
+  margin: -490px auto 60px 33px;
 }
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 1083px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 11px;
   }
 
   .u-section-3 .u-list-1 {
@@ -174,7 +178,6 @@
   .u-section-3 .u-image-2 {
     width: 231px;
     margin-top: -470px;
-    margin-bottom: 57px;
     margin-left: 0;
   }
 }
@@ -186,6 +189,7 @@
 
   .u-section-3 .u-text-1 {
     width: 720px;
+    margin-top: 0;
   }
 
   .u-section-3 .u-list-1 {
@@ -220,7 +224,6 @@
     height: 226px;
     margin-top: 0;
     margin-left: auto;
-    margin-bottom: 55px;
   }
 }
 
@@ -245,6 +248,7 @@
   }
 
   .u-section-3 .u-image-2 {
+    margin-bottom: 55px;
     margin-left: 33px;
   }
 }
